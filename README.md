@@ -47,6 +47,6 @@ russian  -> plans to study
 -> i use i5
 -> i have a ThinkPad T470 with 32GB of ram, a 512GB SSD and an i5-6300U, Raspberry pi 0/v2 w
 ==============================================================================
--> End note: I listen to many genres of music, including tekno, hip-hop, punk, rock, and metal. And I'm a radio enthusiast.
+-> End note: I listen to many genres of music, including tekno, hip-hop, punk, rock, and metal. And I'm a radio enthusiast..
          
 ```
