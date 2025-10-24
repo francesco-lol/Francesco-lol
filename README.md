@@ -1,16 +1,52 @@
-## Hi there 👋
+ O))          O))))      O))      
+ O))        O))    O))   O))      
+ O))      O))        O)) O))      
+ O))      O))        O)) O))      
+ O))      O))        O)) O))      
+ O))        O))     O))  O))      
+ O))))))))    O))))      O))))))))
+                                 
 
-<!--
-**francesco-lol/Francesco-lol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+===============================================================================
+=> social networks (*≧ω≦) ~→
+- discord  -> @
+===============================================================================
 
-Here are some ideas to get you started:
+===============================================================================
+=> programming languages ヽ(･ω･´)ノ
+-> C / C++
+-> Java
+-> Studying Assembly x86-64bit
+-> Studying JavaScript
+===============================================================================
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+===============================================================================
+=> languages i speak ( ＞Д＜ )
+italian  -> native
+english  -> write and speak really poor(。･´д`･。)
+russian  -> plans to study
+===============================================================================
+
+          __    __                 
+ .-----.|  |_ |  |--..-----..----.
+ |  _  ||   _||     ||  -__||   _|
+ |_____||____||__|__||_____||__|                        
+   __          ___     
+  |__|.-----..'  _|    
+ |  ||     ||   _| __ 
+ |__||__|__||__|  |__|
+         __                   __   
+ .---.-.|  |--..-----..--.--.|  |_ 
+ |  _  ||  _  ||  _  ||  |  ||   _|
+ |___._||_____||_____||_____||____|
+ .--------..-----.
+ |        ||  -__|
+ |__|__|__||_____|
+                  
+===============================================================================
+-> i use Mint,Windows,Arch,Raspberry os
+-> i use i5
+-> i have a ThinkPad T470 with 32GB of ram, a 512GB SSD and an i5-6300U, Raspberry pi 0/v2 w
+==============================================================================
+- End note: I listen to many genres of music, including tekno, hip-hop, punk, rock, and metal. And I'm a radio enthusiast.
+         
